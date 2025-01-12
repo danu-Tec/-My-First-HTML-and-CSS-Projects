@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<header>
+<h4> Basic HTML Templet</h4>
+<p>INtroduction to basic HTML sytax.</p>
+<p> Added another paragraph.</p>
+</header>
